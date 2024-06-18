@@ -49,7 +49,7 @@ button {
     border: 1px solid #ccc;
     border-radius: 5px;
     width: 100%;
-    box-sizing: border-box; /* テキストボックスの幅をボックス全体に合わせる */
+    box-sizing: border-box;
 }
 
 button {

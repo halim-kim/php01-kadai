@@ -1,5 +1,5 @@
 <?php
-// 入力データの取得とサニタイズ
+// 入力データの取得とサニタイズ(サニタイズは誤ったインプットを防ぐための処理)
 $name = htmlspecialchars($_POST['name']);
 $age = intval($_POST['age']);
 $partner = htmlspecialchars($_POST['partner']);
