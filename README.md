@@ -9,7 +9,7 @@
 
 ## ③DEMO
 
-http://talemuse.jp/php01-kadai/
+http://talemuse.jp/php01-kadai-1/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
